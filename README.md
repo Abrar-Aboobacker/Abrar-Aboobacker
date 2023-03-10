@@ -11,7 +11,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abrar-aboobacker&theme=halloween)](https://git.io/streak-stats)
   </p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/abhijeetsharma1/"> 
+  <a href="https://www.linkedin.com/in/abrar-aboobacker-0a117a21b/"> 
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
