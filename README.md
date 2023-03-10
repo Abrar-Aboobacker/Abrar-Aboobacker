@@ -8,7 +8,7 @@
 
 ## 📊 Github Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=piyush-agrawal6&theme=halloween)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abrar-aboobacker&theme=halloween)](https://git.io/streak-stats)
   </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/abhijeetsharma1/"> 
