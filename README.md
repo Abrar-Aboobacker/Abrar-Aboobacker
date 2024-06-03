@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abrar Aboobacker</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abrar-Aboobacker&label=Profile%20views&color=0e75b6&style=flat" alt="Abrar-Aboobacker" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abrar-Aboobacker" alt="Abrar-Aboobacker" /></a> </p>
+
 
 - 👋 Hi, I’m @Abrar-Aboobacker
 - 👀 I’m interested in MERN Stack Development
@@ -10,7 +9,8 @@
 - 💞️ I’m looking to collaborate on Full Stack Development Projects
 - 📫 How to reach me +91 81569 86050
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abrar-Aboobacker&label=Profile%20views&color=0e75b6&style=flat" alt="Abrar-Aboobacker" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abrar-Aboobacker" alt="Abrar-Aboobacker" /></a> </p>
 
 ## 📊 Github Stats
 
